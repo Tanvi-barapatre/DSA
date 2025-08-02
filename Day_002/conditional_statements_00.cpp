@@ -1,4 +1,4 @@
-//Conditional statements : They are used to make decisions in a program based on whether a condition is true or false.Conditional statements are used to make decisions in a program based on whether a condition is true or false.Conditional statements are used to make decisions in a program based on whether a condition is true or false.Conditional statements are used to make decisions in a program based on whether a condition is true or false.Conditional statements are used to make decisions in a program based on whether a condition is true or false.Conditional statements are used to make decisions in a program based on whether a condition is true or false.Conditional statements are used to make decisions in a program based on whether a condition is true or false.Conditional statements are used to make decisions in a program based on whether a condition is true or false.Conditional statements are used to make decisions in a program based on whether a condition is true or false.
+//Conditional statements : They are used to make decisions in a program based on whether a condition is true or false.  
 
 //Types of Conditional Statements :
 
@@ -33,4 +33,5 @@
 
 // 3. goto
 //  -Transfers control to a labeled statement in the code.
+
 //  -Generally avoided in modern C++ programming as it can make code harder to read and maintain.
